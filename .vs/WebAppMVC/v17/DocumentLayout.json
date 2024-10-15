@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:45:34.795Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -44,7 +61,7 @@
               "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-15T09:23:04.427Z",
               "EditorCaption": ""
@@ -57,40 +74,39 @@
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
               "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\SeedData.cs",
               "RelativeToolTip": "Models\\SeedData.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T08:45:30.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T08:18:27.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WebAppMVC",
+              "DocumentIndex": 6,
+              "Title": "WebAppMVC.csproj",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\WebAppMVC.csproj",
               "RelativeDocumentMoniker": "WebAppMVC.csproj",
               "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\WebAppMVC.csproj",
               "RelativeToolTip": "WebAppMVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T08:15:23.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T08:15:23.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -98,12 +114,11 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:12:53.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T08:12:53.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -111,8 +126,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:46:26.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T08:46:26.29Z"
             }
           ]
         }

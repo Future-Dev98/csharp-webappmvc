@@ -15,5 +15,7 @@ namespace WebAppMVC.Data
         }
 
         public DbSet<WebAppMVC.Models.Movie> Movie { get; set; } = default!;
+        public DbSet<WebAppMVC.Models.Category> Category { get; set; } = default!;
+        public DbSet<WebAppMVC.Models.Product> Product { get; set; } = default!;
     }
 }

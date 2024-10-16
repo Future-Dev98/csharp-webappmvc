@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "whDRrR6EWOH9SkEMU++rKczCgSgTJZsC7RqwgXH2YYo=",
+  "Hash": "sN4Xm5ML+v3Hdpg+B5hguKxsuWxNI+Ak1i7rqRe7JvQ=",
   "Source": "WebAppMVC",
   "BasePath": "_content/WebAppMVC",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\wwwroot\\images\\no-image.jpg",
+      "SourceId": "WebAppMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\wwwroot\\",
+      "BasePath": "_content/WebAppMVC",
+      "RelativePath": "images/no-image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\no-image.jpg"
     },
     {
       "Identity": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\wwwroot\\js\\site.js",

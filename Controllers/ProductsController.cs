@@ -66,4 +66,9 @@ public class ProductsController : Controller
 
         return View(product);
     }
+
+    public async Task<IAsyncResult> Edit(int Id)
+    {
+
+    }
 }

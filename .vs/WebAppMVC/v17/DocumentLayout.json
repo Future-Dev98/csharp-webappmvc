@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\webappmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:webappmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|c:\\users\\hyv\\source\\repos\\webappmvc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E505F-A4A8-42CA-8403-5D62713FC7E6}|WebAppMVC.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,69 +38,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T09:30:20.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T09:22:48.747Z"
+              "WhenOpened": "2024-10-19T08:13:04.031Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:49:35.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:12:43.634Z",
+              "WhenOpened": "2024-10-19T07:59:06.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwKAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:08:45.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_LayoutIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Shared\\_LayoutIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutIndex.cshtml",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Shared\\_LayoutIndex.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutIndex.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T03:44:40.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T09:23:04.427Z",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:12:43.634Z",
               "EditorCaption": ""
             },
             {
@@ -125,40 +118,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T07:37:11.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
               "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Views\\Categories\\Details.cshtml",
               "RelativeToolTip": "Views\\Categories\\Details.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-16T07:12:01.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\SeedData.cs",
-              "RelativeDocumentMoniker": "Models\\SeedData.cs",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\WebAppMVC\\Models\\SeedData.cs",
-              "RelativeToolTip": "Models\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:45:30.898Z"
             }
           ]
         }

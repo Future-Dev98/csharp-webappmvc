@@ -1,9 +1,57 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
-    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+    // Layout = "~/Views/Shared/_LayoutIndex.cshtml";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="home container">
+    <div class="text-center">
+        <h1 class="display-4">Home</h1>
+    </div>
+    @if (ViewBag.Category1 != null && ViewBag.Category1?.Products != null)
+    {
+        <section id="category_@ViewBag.Category1.Id" class="category">
+            <h2>@ViewBag.Category1.Name</h2>
+            <div class="row">
+                @foreach (var product in @ViewBag.Category1.Products)
+                {
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <div class="product shadow">
+                            <a asp-controller="product" asp-action="Detail" asp-route-id="@product.Id">
+                                <div class="image">
+                                    <img src="@Url.Content("~/images/no-image.jpg")" alt="@product.Title" />
+                                </div>
+                                <div class="product-info">
+                                    <h5>@product.Title</h5>
+                                    <div class="price">@product.Price</div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+    }
+    @if (ViewBag.Category2 != null && ViewBag.Category2?.Products != null)
+    {
+        <section id="category_@ViewBag.Category2.Id" class="category">
+            <h2>@ViewBag.Category2.Name</h2>
+            <div class="row">
+                @foreach (var product in @ViewBag.Category2.Products)
+                {
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <div class="product shadow">
+                            <a asp-controller="product" asp-action="Detail" asp-route-id="@product.Id">
+                                <div class="image">
+                                    <img src="@Url.Content("~/images/no-image.jpg")" alt="@product.Title" />
+                                </div>
+                                <div class="product-info">
+                                    <h5>@product.Title</h5>
+                                    <div class="price">@product.Price</div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+    }
 </div>

@@ -14,6 +14,7 @@ namespace WebAppMVC.Models
         [Column(TypeName = "decimal(10, 2)")]
         public decimal Price { get; set; }
 
+        [Display(Name = "Stock Quantity")]
         public int StockQuantity { get; set; }
 
         public int CategoryId { get; set; }

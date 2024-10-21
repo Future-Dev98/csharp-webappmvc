@@ -29,8 +29,8 @@ public class ProductsController : Controller
     }
 
     // Route: /product/{id}
-    [HttpGet("/product/{id}")]
-    public async Task<IActionResult> Details(int id)
+    [HttpGet("/product/detail/{id}")]
+    public async Task<IActionResult> Detail(int id)
     {
         var product = await _context.Product.Include(p => p.Category)
                                              .FirstOrDefaultAsync(p => p.Id == id);
@@ -121,7 +121,7 @@ public class ProductsController : Controller
             return NotFound();
         }
 
-        var product = await _context.Product.FirstOrDefaultAsync(p => p.Id == Id);
+        var product = await _context.Product.Include(p => p.Category).FirstOrDefaultAsync(p => p.Id == Id);
         if (product == null)
         {
             return NotFound();
